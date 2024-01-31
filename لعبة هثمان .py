@@ -1,5 +1,5 @@
 import random 
-words=['good','bad','ugly']
+words=['good','bad','ugly','mekki','boudadi']
 #اختيار عشواءي للحاسوب
 random_word=random.choice(words)
 
